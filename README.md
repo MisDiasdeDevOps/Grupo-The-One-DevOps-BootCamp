@@ -20,7 +20,7 @@
 *	email: mf.guzzi@gmail.com 
 *	Linkedin: https://www.linkedin.com/in/mfguzzi/ 
 *	Carrera en Curso : Bootcamp DevOps Engineer
-*	Ocupacion: Meteorologa con dificltades
+*	Ocupacion: Meteorologa con dificultades
 
 
 #
