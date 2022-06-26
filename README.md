@@ -1,4 +1,18 @@
-# Welcome to your organization's demo respository
-This code repository (or "repo") is designed to demonstrate the best GitHub has to offer with the least amount of noise.
+# Paricipantes del Proyecto *** GRUPO 1***
 
-The repo includes an `index.html` file (so it can render a web page), two GitHub Actions workflows, and a CSS stylesheet dependency.
+*	Sr. Andrés Dominguez  - email: andres.bmth.bt@gmail.com
+
+*	Sr.Anibal Castro Ruiz - email: acastroruiz86@gmail.com
+
+*	Srta.Flor  Guzzi - 	email: mf.guzzi@gmail.com
+
+*	Sr.Francisco Jose Herrero - email:herrerofranciscojose@gmail.com
+
+*	Sr.Juan Strack - email: juanstrack@gmail.com
+
+*	Sr.Martin Manzanelli  - email: m_manzanelli@hotmail.com 
+
+*	Sr.Marcelo Piroddi - email:4familias@gmail.com
+
+
+
