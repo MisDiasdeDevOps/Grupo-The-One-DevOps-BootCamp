@@ -1,4 +1,7 @@
 # Paricipantes del Proyecto *** The One ***
+#
+#
+
 
 *	Sr.   Andrés Dominguez 
 *	email: andres.bmth.bt@gmail.com 
@@ -20,8 +23,7 @@
 *	email: mf.guzzi@gmail.com 
 *	Linkedin: https://www.linkedin.com/in/mfguzzi/ 
 *	Carrera en Curso : Bootcamp DevOps Engineer
-*	Ocupacion: Meteorologa con dificultades
-
+*	Ocupacion: Maquilladora profesional
 
 #
 
@@ -29,7 +31,7 @@
 *	email:herrerofranciscojose@gmail.com
 *	Linkedin:
 *	Carrera en Curso : Bootcamp DevOps Engineer
-*	Ocupacion: Jardinero embarrado
+*	Ocupacion: Cervecero artesanal.
 
 #
 
@@ -37,7 +39,7 @@
 *	email: juanstrack@gmail.com
 *	Linkedin: https://www.linkedin.com/in/juan-strack-a49947184*	
 *	Carrera en Curso : Bootcamp DevOps Engineer
-*	Ocupacion: Fisico-Quimico Taxista
+*	Ocupacion: Planificador de eventos
 
 #
 
@@ -45,7 +47,7 @@
 *	email: m_manzanelli@hotmail.com   
 *	Linkedin: https://www.linkedin.com/in/martin-manzanelli-a489b7216 - 
 *	Carrera en Curso : Bootcamp DevOps Engineer
-*	Ocupacion: Policia jubilado
+*	Ocupacion: Actor de doblaje.
 
 #
 
@@ -53,7 +55,7 @@
 *	email:4familias@gmail.com
 *	Linkedin: 
 *	Carrera en Curso : Bootcamp DevOps Engineer
-*	Ocupacion: Carpintero sin trabajo
+*	Ocupacion: Carpintero 
 
 #
 #
