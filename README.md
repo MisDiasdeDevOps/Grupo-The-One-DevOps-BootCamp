@@ -1,4 +1,4 @@
-# Paricipantes del Proyecto *** GRUPO 1***
+# Paricipantes del Proyecto *** The One ***
 
 *	Sr.   Andrés Dominguez 
 *	email: andres.bmth.bt@gmail.com 
