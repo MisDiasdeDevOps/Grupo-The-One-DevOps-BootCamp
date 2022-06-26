@@ -4,6 +4,7 @@
 *	email: andres.bmth.bt@gmail.com 
 *	LinkedIn: https://www.linkedin.com/in/andres-dominguez-554206198/
 *	Carrera en Curso : Bootcamp DevOps Engineer
+*	Ocupacion: Estudiante
 
 #
 
@@ -11,6 +12,7 @@
 *	email: acastroruiz86@gmail.com
 *	Linkedin: https://www.linkedin.com/in/anibal-castro-ruiz-868ab563/
 *	Carrera en Curso : Bootcamp DevOps Engineer
+*	Ocupacion: Astronauta
 
 #
 
@@ -18,6 +20,8 @@
 *	email: mf.guzzi@gmail.com 
 *	Linkedin: https://www.linkedin.com/in/mfguzzi/ 
 *	Carrera en Curso : Bootcamp DevOps Engineer
+*	Ocupacion: Meteorologa
+
 
 #
 
@@ -25,6 +29,7 @@
 *	email:herrerofranciscojose@gmail.com
 *	Linkedin:
 *	Carrera en Curso : Bootcamp DevOps Engineer
+*	Ocupacion: Jardinero
 
 #
 
@@ -32,6 +37,7 @@
 *	email: juanstrack@gmail.com
 *	Linkedin: https://www.linkedin.com/in/juan-strack-a49947184*	
 *	Carrera en Curso : Bootcamp DevOps Engineer
+*	Ocupacion: Fisico-Quimico
 
 #
 
@@ -39,6 +45,7 @@
 *	email: m_manzanelli@hotmail.com   
 *	Linkedin: https://www.linkedin.com/in/martin-manzanelli-a489b7216 - 
 *	Carrera en Curso : Bootcamp DevOps Engineer
+*	Ocupacion: Policia
 
 #
 
@@ -46,6 +53,7 @@
 *	email:4familias@gmail.com
 *	Linkedin: 
 *	Carrera en Curso : Bootcamp DevOps Engineer
+*	Ocupacion: Carpintero
 
 #
 #
