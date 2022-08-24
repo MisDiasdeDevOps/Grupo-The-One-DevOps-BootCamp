@@ -15,7 +15,7 @@
 *	email: acastroruiz86@gmail.com
 *	Linkedin: https://www.linkedin.com/in/anibal-castro-ruiz-868ab563/
 *	Carrera en Curso : Bootcamp DevOps Engineer
-*	Ocupacion: Astronauta a medio tiempo
+*	Ocupacion: Astronauta 
 
 #
 
@@ -55,7 +55,7 @@
 *	email:4familias@gmail.com
 *	Linkedin: 
 *	Carrera en Curso : Bootcamp DevOps Engineer
-*	Ocupacion: Carpintero 
+*	Ocupacion: Estudiante DevOps 
 
 #
 #
